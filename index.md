@@ -2,4 +2,6 @@
 ## heading 2
 ### heading 3
 
-I added three different headings
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+I added three different headings, an image also
